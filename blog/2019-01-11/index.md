@@ -41,12 +41,17 @@ GraphQL query and mutation typedefs<br />
 GraphQL resolvers for query and add comment mutation<br />
 ![GraphQL resolvers for query and add comment mutation](https://www.dropbox.com/s/3oyhn65qu2ofozr/Screen%20Shot%202019-01-11%20at%207.12.47%20AM.png?raw=1)
 
-## WEEKLY SPRINT TASK HEADER (UPDATE THIS WEEKLY)
+## Experiences Forming A Team
 
 <!-- Description from labs training kit page for the week -->
-During this sprint, students will complete a pre-production exercise then build and deploy the skeleton of their capstone project, including user account models and a minimal front and back end.
+This week we began learning to work on a team. Until now my work at Lambda has been almost entirely solitary and learning to work on a team with others is kind of a jarring process. It can be difficult to both get to know your teammates and try to accomplish tasks with them in tandem. A lot of what makes a good team seems to be familiarity paired with each individuals ability to be dynamic and adjust to changes quickly. While this week started off kind of slow in the planning phase, I think that working on the backend together was a great team building exercise. GraphQL was new tech to most of us and learning it together, starting on the same page, was a great way to jump into this project. Things I want to work on moving forward are organization and planning. I find I have a lot of anxiety about stepping on my teammate's toes or doing redudndant or unnecessary work and I think developing a clear outline for what needs to be done will be a big help in making our team more productive as a whole.
 
 ## Weekly Milestones
 
 <!-- insert stuff here -->
-This week we began learning to work on a team. Until now my work at Lambda has been almost entirely solitary and learning to work on a team with others is kind of a jarring process. It can be difficult to both get to know your teammates and try to accomplish tasks with them in tandem. A lot of what makes a good team seems to be familiarity paired with each individuals ability to be dynamic and adjust to changes quickly. While this week started off kind of slow in the planning phase, I think that working on the backend together was a great team building exercise. GraphQL was new tech to most of us and learning it together, starting on the same page, was a great way to jump into this project. Things I want to work on moving forward are organization and planning. I find I have a lot of anxiety about stepping on my teammate's toes or doing redudndant or unnecessary work and I think developing a clear outline for what needs to be done will be a big help in making our team more productive as a whole.
+Front end deployment:<br/>
+https://team-home.netlify.com/
+
+Back end deployment with users displayed:<br/>
+https://team-home.herokuapp.com/graphql?query={users{_id%20firstName%20lastName%20email}}
+
